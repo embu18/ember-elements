@@ -210,20 +210,6 @@
                     <div class="docs-prop-tags"></div>
                 </td>
             </tr>
-            <tr>
-                <td class="docs-prop-name"><code>minimal</code></td>
-                <td class="docs-prop-details"><code class="docs-prop-type"><strong>boolean</strong></code>
-                    <div class="docs-prop-description">
-                        <div class="docs-section">
-                            <div class="bp3-running-text">
-                                <p> Minimal popover style.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="docs-prop-tags"></div>
-                </td>
-            </tr>
              <tr>
                 <td class="docs-prop-name"><code>InputGroupProps</code></td>
                 <td class="docs-prop-details"><code class="docs-prop-type"><strong>Partial&lt;<a {{action 'openInputGroupProps'}}>InputGroupProps</a>&gt; &amp; object</strong><em class="docs-prop-default bp3-text-muted"></em></code>
